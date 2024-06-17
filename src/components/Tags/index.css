@@ -1,0 +1,17 @@
+.btn {
+  background-color: transparent;
+  height: 30px;
+  width: 100px;
+  border-radius: 12px;
+  cursor: pointer;
+  border: black 2px solid;
+}
+.active {
+  background-color: blue;
+  color: #ffffff;
+  height: 30px;
+  width: 100px;
+  border-radius: 12px;
+  cursor: pointer;
+  border: black 2px solid;
+}

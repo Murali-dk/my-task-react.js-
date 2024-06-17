@@ -1,0 +1,65 @@
+.bg-cont {
+  height: 100vh;
+  display: flex;
+  font-family: 'roboto';
+}
+.card1 {
+  width: 35%;
+  background-color: #1a171d;
+  height: 100vh;
+  padding: 12px;
+}
+.card2 {
+  width: 65%;
+  background-color: hotpink;
+  height: 100vh;
+  padding: 12px;
+}
+.h1 {
+  text-align: center;
+  color: #f3aa4e;
+}
+h1 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+label {
+  color: #ffffff;
+  display: block;
+  margin-bottom: 10px;
+}
+input {
+  width: 200px;
+  height: 33px;
+  border: none;
+  outline: none;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+select {
+  width: 200px;
+  height: 33px;
+  border: none;
+  outline: none;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.task-button {
+  background-color: orange;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  text-align: center;
+  height: 30px;
+  width: 110px;
+}
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
